@@ -43,18 +43,7 @@ top: 90px;
 -ms-border-radius:7px;
 border-radius: 7px;
 color: #ddd;
-}
-input {
-position: absolute;
-height: 60px;
-width: 200px;
--webkit-border-radius:7px;
--moz-border-radius:7px;
--o-border-radius:7px;
--ms-border-radius:7px;
-border-radius: 7px;
-font-size: 1.3em;
-color: #ddd;
+font-size: 21px;
 }
 #equals {
 width: 90px;
@@ -71,14 +60,23 @@ left: -2px;
 background-color: #5fa5a0;
 }
 #display {
+position: absolute;
+height: 60px;
+width: 200px;
+-webkit-border-radius:7px;
+-moz-border-radius:7px;
+-o-border-radius:7px;
+-ms-border-radius:7px;
+border-radius: 7px;
 font-size: 1.5em;
+color: #ddd;
 text-align: center;
 background-color: #778899;
-color: #ddd;
 -webkit-border:1px solid #3b3b3e;
 -moz-border:1px solid #3b3b3e;
 -o-border:1px solid #3b3b3e;
 -ms-border:1px solid #3b3b3e;
 border: 1px solid #3b3b3e;
+
 }
 
